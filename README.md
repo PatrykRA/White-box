@@ -1,4 +1,5 @@
 <h2>TASK: Please present the pseudocode as a block diagram.</h2>
+<tt>I only got pseudocode and question. I made all the diagrams myself </tt>
 <h3>Task 1</h3>
 <img src="kod1.PNG">
 <p>Jaka jest minimalna liczba przypadków testowych niezbędnych do zagwarantowania 100% pokrycia instrukcji  i 100% pokrycia decyzji?</p>
